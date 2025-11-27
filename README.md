@@ -1,2 +1,13 @@
-# javascript-mini-projects
-Small JavaScript practice projects (counter, calculator, todo list)
+# JavaScript Mini Projects
+
+Small practice projects while learning JavaScript.
+
+## Projects
+- Counter button
+- Simple calculator
+- Todo list
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
